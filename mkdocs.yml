@@ -4,3 +4,4 @@ theme:
   custom_dir: 'cinder'
 nav:
   - Home: index.md
+  - WBCC: WBCC.md
