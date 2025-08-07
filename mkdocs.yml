@@ -1,7 +1,7 @@
-site_name: Webbrew Documentation
+site_name: OsmiumSoftware Docs
 theme:
   name: null
-  custom_dir: 'cinder'
+  custom_dir: 'bootstrap2'
 nav:
   - Home: index.md
   - WBCC: WBCC.md
